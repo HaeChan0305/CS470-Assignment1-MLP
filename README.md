@@ -1,6 +1,6 @@
 <div align=center>
   <h1>
-    Multi-Layer Perceptron (MDP)
+    MLP: Multi-Layer Perceptron
   </h1>
   <p>
     <br><b>KAIST CS470: Introduction to Artificial Intelligence (Spring 2023)</b></br>
