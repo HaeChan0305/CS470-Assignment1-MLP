@@ -28,26 +28,26 @@ You have to plot the loss function and the accuracies on the training and valida
 ### Results
 - Visualization
   
-  <img src="/assignment1_MLP/Figure/visualization.png" width="50%" height="50%">
+  <img src="/Figure/visualization.png" width="50%" height="50%">
   
 - Loss and accuracy Plot
   - ReLU
 
-    <img src="/assignment1_MLP/Figure/loss_ReLU.png" width="50%" height="50%">
+    <img src="/Figure/loss_ReLU.png" width="50%" height="50%">
     
-    <img src="/assignment1_MLP/Figure/accuracy_ReLU.png" width="50%" height="50%">
+    <img src="/Figure/accuracy_ReLU.png" width="50%" height="50%">
 
   - Leaky ReLU
 
-    <img src="/assignment1_MLP/Figure/Leaky_ReLU.png" width="50%" height="50%">
+    <img src="/Figure/Leaky_ReLU.png" width="50%" height="50%">
 
   - SWISH
 
-    <img src="/assignment1_MLP/Figure/SWISH.png" width="50%" height="50%">
+    <img src="/Figure/SWISH.png" width="50%" height="50%">
 
   - SELU
 
-    <img src="/assignment1_MLP/Figure/SELU.png" width="50%" height="50%">
+    <img src="/Figure/SELU.png" width="50%" height="50%">
 
 - Loss and accuracy by activation functions on 2000 iteration.
 
